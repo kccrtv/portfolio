@@ -4,29 +4,29 @@ var p5Img = document.getElementById('p5');
 var bscImg = document.getElementById('bsc');
 
 savrImg.onmouseout = function() {
-  this.src = "/images/card-savr.png";
+  this.src = "card-savr.png";
 };
 savrImg.onmouseover = function() {
-  this.src = "/images/savr.gif";
+  this.src = "savr.gif";
 };
 
 boatImg.onmouseout = function() {
-  this.src = "/images/card-boat.png";
+  this.src = "card-boat.png";
 };
 boatImg.onmouseover = function() {
-  this.src = "/images/boat.gif";
+  this.src = "boat.gif";
 };
 
 p5Img.onmouseout = function() {
-  this.src = "/images/card-p5.png";
+  this.src = "card-p5.png";
 };
 p5Img.onmouseover = function() {
-  this.src = "/images/p5.gif";
+  this.src = "p5.gif";
 };
 
 bscImg.onmouseout = function() {
-  this.src = "/images/card-bsc.png";
+  this.src = "card-bsc.png";
 };
 bscImg.onmouseover = function() {
-  this.src = "/images/bsc.gif";
+  this.src = "bsc.gif";
 };

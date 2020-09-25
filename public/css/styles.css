@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .splash {
-  background-image: url("/images/hero-bw.png");
+  background-image: url("hero-bw.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right top;
@@ -182,41 +182,41 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a.volunteer {
-  background: url("/images/card-boat.png") no-repeat center center;
+  background: url("card-boat.png") no-repeat center center;
   background-size: contain;
 }
 
 a.volunteer:hover {
-  background-image: url("/images/boat.gif");
+  background-image: url("boat.gif");
 }
 
 a.music {
-  background: url("/images/card-p5.png") no-repeat center center;
+  background: url("card-p5.png") no-repeat center center;
   background-size: contain;
   transform: scale(1.2);
 }
 
 a.music:hover {
-  background-image: url("/images/p5.gif");
+  background-image: url("p5.gif");
 }
 
 a.interactive {
-  background: url("/images/card-bsc.png") no-repeat center center;
+  background: url("card-bsc.png") no-repeat center center;
   background-size: contain;
 }
 
 a.interactive:hover {
-  background-image: url("/images/bsc.gif");
+  background-image: url("bsc.gif");
 }
 
 a.foodie {
-  background: url("/images/card-savr.png") no-repeat center center;
+  background: url("card-savr.png") no-repeat center center;
   background-size: contain;
   transform: scale(1.2);
 }
 
 a.foodie:hover {
-  background-image: url("/images/savr.gif");
+  background-image: url("savr.gif");
 }
 
 .portfolio-title {
